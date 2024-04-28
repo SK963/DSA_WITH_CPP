@@ -1,0 +1,3 @@
+language = "bash"
+run = "bash run_button.sh"
+hidden = ["main", "**/*.o", "**/*.d", ".ccls-cache", "Makefile" ,"a.out", "run_button.sh","main-debug"]
