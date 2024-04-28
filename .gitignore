@@ -1,0 +1,19 @@
+# Ignore all files and directories in the main directory
+/*
+
+# Exclude hidden directories and files
+.*/
+
+#ignore all  files and directories
+*
+# allow gitignore file to be tracked
+!.gitignore
+# allow all subdirectories to be tracked
+!*/
+
+# ignore all hidden files and directories
+.*/
+
+
+#igoring the UNSOLVED Directory
+Unsolved Problems
