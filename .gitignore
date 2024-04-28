@@ -12,7 +12,7 @@
 .*/
 
 #allow .git directory to be tracked
-!.git
+!.git/
 
 
 #igoring the UNSOLVED Directory to be tracked
